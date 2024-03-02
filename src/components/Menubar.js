@@ -14,7 +14,7 @@ const Menubar = () => {
          <div>
          <FontAwesomeIcon icon={faTents} className="h-6 w-6" />
          
-         <h1 className="text-xs font-semibold">Camping</h1>
+         <h1 className="text-xs font-semiboldcd">Camping</h1>
 
          </div>
         </>
