@@ -1,0 +1,26 @@
+/* app.css or external.css */
+
+/* Adjustments for medium screens (md) */
+@media screen and (min-width: 768px) {
+    .search-nav {
+      margin-left: 2rem; /* Adjust the margin as needed */
+    }
+  }
+  
+  /* Adjustments for large screens (lg) */
+  @media screen and (min-width: 1024px) {
+    .user-nav {
+      margin-top: 0; /* Reset the top margin */
+    }
+  }
+  /* styles.css */
+footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  background-color: #f3f4f6; /* Assuming stone-300 is a similar color */
+  padding: 10px 0; /* Adjust padding as needed */
+  text-align: center;
+}
+
+  
